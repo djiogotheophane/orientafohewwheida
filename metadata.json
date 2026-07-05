@@ -1,0 +1,6 @@
+{
+  "name": "FOHOWHOPE",
+  "description": "Plateforme haut de gamme dédiée au bien-être naturel, à la médecine traditionnelle et aux compléments alimentaires de qualité supérieure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
